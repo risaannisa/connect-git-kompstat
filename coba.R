@@ -8,3 +8,5 @@ plot(mtcars$wt, mtcars$mpg,
      xlab="Berat Mobil", 
      ylab="Miles Per Gallon", 
      pch=19, col="maroon")
+
+#mencoba brancing rizki
