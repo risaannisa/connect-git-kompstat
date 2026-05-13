@@ -10,3 +10,4 @@ plot(mtcars$wt, mtcars$mpg,
      pch=19, col="maroon")
 
 #mencoba brancing rizki
+#mencoba push branching rizki
